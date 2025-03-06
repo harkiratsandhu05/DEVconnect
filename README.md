@@ -41,10 +41,6 @@ DEVconnect is a full-stack developer networking platform that allows users to cr
 - Render/Fly.io (Backend)
 - Cloudinary (for image hosting, if applicable)
 
-## 📸 Screenshots
-
-*(Add screenshots of the UI here for a better visual representation.)*
-
 ## 🏗️ Installation & Setup
 
 ### **Prerequisites**
